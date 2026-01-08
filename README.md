@@ -2,7 +2,7 @@
 
 <h2>1001개의 Pinterest 프로필 및 게시물로 구성된 샘플 データセット</h2>
 
-![Pinterest dataset header](https://github.com/luminati-io/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
+![Pinterest dataset header](https://github.com/bright-kr/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
 
 1000개 이상의 프로필 및 게시물로 구성된 Pinterest データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
